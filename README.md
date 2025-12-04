@@ -37,8 +37,8 @@
 
 🗂 Repository Structure
       File	Description
-      phonepe dashboard.pbix	Power BI dashboard
-      Phonepe dataset.csv	Dataset used for analysis
+      phonepe dashboard.pbix	   Power BI dashboard
+      Phonepe dataset.csv	      Dataset used for analysis
       Dashboard Screenshot.png	Final dashboard preview
       
 ▶️ How to Run the Dashboard
@@ -53,7 +53,7 @@
       DAX (for KPI measures & calculations)
 
 📷 Dashboard Preview
-      Dashboard Screenshot.png (will display on GitHub once uploaded)
+      Phonepe Digital Transaction/dashboard screenshot/Dashboard Screenshot.png
 
 👤 Author
 Aadity Singh
